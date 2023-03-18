@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "970948714017",
+    "project_id": "aiexercise-411bc",
+    "storage_bucket": "aiexercise-411bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970948714017:android:c09bd95b0dd6969e168d60",
+        "android_client_info": {
+          "package_name": "com.example.ai_ex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970948714017-1eqe6g5t8q51078te6n5qa9hdpvib94o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi_IwbI9JA7SyJBSo0cM4kOINR2QpZu40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970948714017-1eqe6g5t8q51078te6n5qa9hdpvib94o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
