@@ -1,8 +1,3 @@
-class UserData{
-  String name;
-  int height;
-  int weight;
-  String gender;
-
-  UserData({required this.name, required this.height, required this.weight, required this.gender});
-}
+String userEmail='';
+String myname='';
+List<dynamic> dataList = [170,70,20,'남성'];
